@@ -3,7 +3,7 @@ Antes de usar esta herramienta debe tener en cuenta lo siguiente:
 1. La explicación de este documento es solamente de aspectos de utilización de la herramienta, da por sentado de que usted tiene conocimientos acerca de
 la programación lineal, sus aplicaciones y conocimiento del software Excel. 
 2. Su diseño es exclusivo para realizar programación lineal.
-3. La plantilla ya se encuentra automatizada, sin emgargo usted debera realizar el procedimiento de usar el complemento de
+3. La plantilla ya se encuentra automatizada, sin embargo usted debera realizar el procedimiento de usar el complemento de
 solver de Excel para resolver el sistema, esta plantilla unicamente le ayudara a digitar mas facil las restricciones y variables
 del sistema.
 
